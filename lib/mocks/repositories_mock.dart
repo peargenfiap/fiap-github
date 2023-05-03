@@ -4,14 +4,14 @@ import 'package:github/models/repository.dart';
 final kRepositoriesMock = [
   Repository(
     id: 188897530,
-    name: "fiap",
+    name: "Pedro",
     owner: Owner(
-      login: "josecastillolema",
-      avatar: "https://avatars.githubusercontent.com/u/7546521?v=4",
+      login: "pedroargentati",
+      avatar: "https://avatars.githubusercontent.com/u/61717934?v=4",
     ),
-    htmlUrl: "https://github.com/josecastillolema/fiap",
+    htmlUrl: "https://github.com/pedroargentati",
     description: "Aplicações para os cursos de pós-graduação da FIAP",
-    url: "https://api.github.com/repos/josecastillolema/fiap",
+    url: "https://api.github.com/repos/pedroargentati",
   ),
   Repository(
     id: 195543045,
